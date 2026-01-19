@@ -69,10 +69,3 @@ The architecture diagram illustrates the full prediction pipeline, from symptom 
 ### Report
 
 A 2-page technical report is included, detailing methodology, clustering strategy, experimental results, dataset limitations, and critical analysis. The report is fully aligned with the implemented models and the live demo.
-
----
-
-### Authors
-
-- **Baker Huseyin**
-- **Islah Haoues**
